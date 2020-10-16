@@ -41,3 +41,5 @@ exports.userJoined = functions.auth.user()
 
       });
 });
+
+thay doi
